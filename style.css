@@ -83,6 +83,7 @@ footer{
 }
 form{
         margin: 40px 0;
+        PADDING: 0 0 0 150PX;
     }
 form label, form legend{
     display: block;
